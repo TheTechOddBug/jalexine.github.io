@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "performatively run a llm locally"
-category: example
+date: 2025-10-16
+category: technical
 ---
 
 <span style="color:white"> Want to run performatively a LLM on your phone just like me?
@@ -10,7 +11,7 @@ Here’s how..</span>
 
 
 <p align="center">
-  <img src="assets/mattisdoviereyes.gif" alt="mattisdovier" width="500" style="height:auto;" />
+  <img src="/assets/mattisdoviereyes.gif" alt="mattisdovier" width="500" style="height:auto;" />
 </p>
 *Mattis Dovier*
 
@@ -40,7 +41,7 @@ You can ask ChatGPT if your device supports the model you want to use.
 ## <span style="color: white;">2. The Model </span>
  
 
-Models come in different forms, and for local inference you need the **quantized** kind — files ending with `.gguf`.  
+Models come in different forms, and for local inference you need the **quantized** kind, files ending with `.gguf`.  
 These are compressed versions that can actually fit into your hardware without exploding your RAM.  
 
 You can find models, including uncensored ones, on [Hugging Face](https://huggingface.co/models) or the [llama.cpp community repos](https://github.com/ggerganov/llama.cpp/discussions).  
@@ -49,7 +50,7 @@ Once downloaded, create a folder called `models` inside your `llama.cpp` directo
 <br>
 
 
-<img src="assets/yudho.gif" alt="morales" width="320" />
+<img src="/assets/yudho.gif" alt="morales" width="320" />
 * [Yudho](https://yudho.xyz/) *
 
 
@@ -96,4 +97,3 @@ if you have any questions about something that isn’t working here, please ask 
 
 <br>
 will add ressources here soon.
-
