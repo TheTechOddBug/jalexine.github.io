@@ -114,7 +114,7 @@ category: technical
 
 <span style="color:white">Come hang out on discord and share about your project.</span>
 
-<span style="color:white"><a href="https://discord.gg/j3Jsgdba" style="color:#ff69b4; font-size:1.4em; font-weight:700;">click here</a></span>
+<span style="color:white"><a href="https://discord.gg/hUeC6bWh65" style="color:#ff69b4; font-size:1.4em; font-weight:700;">click here</a></span>
 
 <br>
 
